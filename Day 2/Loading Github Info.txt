@@ -1,0 +1,55 @@
+<div class="list-group-item">
+     <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1">Loading login info...</h5>
+     </div>
+        <p class="mb-1">login</p>
+</div>
+
+<div class="list-group-item">
+     <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1">Loading login info...</h5>
+     </div>
+        <p class="mb-1">avatar_url</p>
+</div>
+
+<div class="list-group-item">
+     <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1">Loading login info...</h5>
+     </div>
+        <p class="mb-1">name</p>
+</div>
+
+<div class="list-group-item">
+     <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1">Loading login info...</h5>
+     </div>
+        <p class="mb-1">company</p>
+</div>
+
+<div class="list-group-item">
+     <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1">Loading login info...</h5>
+     </div>
+        <p class="mb-1">blog</p>
+</div>
+
+<div class="list-group-item">
+     <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1">Loading login info...</h5>
+     </div>
+        <p class="mb-1">location</p>
+</div>
+
+<div class="list-group-item">
+     <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1">Loading login info...</h5>
+     </div>
+        <p class="mb-1">bio</p>
+</div>
+
+<div class="list-group-item">
+     <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1">Loading login info...</h5>
+     </div>
+        <p class="mb-1">twitter_username</p>
+</div>
